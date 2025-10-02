@@ -1,4 +1,4 @@
-This repo is in testing state
+This repo is in testing state.  Code is not changed from original.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/docs/images/TOTEM_logo_dark.svg">
